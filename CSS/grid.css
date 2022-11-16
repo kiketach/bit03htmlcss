@@ -1,13 +1,12 @@
 * {
-   
+   box-sizing: border-box;
   }
   body {
     width: 1024px;
-    height: 800px;
     margin: 16px auto;
-    background-color: white;
-    border: 2px solid lightgray;
-    border-radius: 16px;
+    background-color: #ffff;
+    border: 2px solid #ffff;
+    border-radius: 8px;
     display: grid;
     grid-template-columns: 255px 255px 255px 255px;
     grid-template-rows: auto;
@@ -20,47 +19,66 @@
   header,
   nav,
   main,
-  aside,
   footer {
-    background-color: lightgrey;
+    background-color:rgb(215, 219, 239);
     color: black;
     border: 2px solid grey;
-    border-radius: 16px;
+    border-radius: 4px;
     display: flex;
     justify-content: center;
     align-items: center;
-    
   }
   header {
     grid-area: header;
     height: 88px;
-    background-color: cadetblue;
+    margin: auto;
   }
   nav {
     grid-area: nav;
     height: 48px;
-    border: 2px dotted grey;
+    border: 2px dotted #fff;
+    background-color: #fff;
     
   }
   main {
     grid-area: main;
-    height: 612px
+    height: 775px
     
   }
   aside {
+    background-color: #fff;
+    color: black;
+    border: 2px solid grey;
+    justify-content: center;
+    align-items: center;
     grid-area: aside;
-    height: 612px;
-    align-items:flex-start;
-    text-align:end
+    height: 775px;
+   
   }
   footer {
     grid-area: footer;
-    height: 32px;
+    height: 20px;
     font-style: italic;
-    font-family: 'Courier New', Courier, monospace;
-    background-color: cadetblue;
+    font-family: monospace;
+    background-color: rgb(144, 210, 212);
+    color: black;
+    font-size: smaller;
   }
   a {
     margin: 15px;
     }
-    
+    table {     font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+      font-size: 12px;    margin: 45px;     width: 480px; text-align: center;    border-collapse: collapse; }
+  
+  th {     font-size: 13px;     font-weight: normal;     padding: 8px;     background: #b9c9fe;
+      border-top: 4px solid #c7d1f4;    border-bottom: 2px solid #fff; color: rgb(57, 98, 181); }
+  
+  td {    padding: 8px;     background: #e8edff;     border-bottom: 1px solid #fff;
+      color: #669;    border-top: 1px solid transparent; }
+  
+  tr:hover td { background: #d0dafd; color: #339; }
+  
+.letra1{
+  font-family:"Cinzel";
+  font-style: oblique;
+  font-size: medium;

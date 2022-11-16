@@ -1,4 +1,5 @@
 # bit03htmlcss
-## *Repo sobre sitio web diseñado con apoyo de css*
+## *Este proyecto es un tributo a Steve Jobs, la razon es sencillamente por haber sido la persona a quien admiro*
+## *Desde muy joven segui sus pasos, sus controversias, quien apesar de todas las adversidades nunca dejo de ser lo que era, sencillo, perfeccionista, innovador en pocas palabras un personaje fuera de este planeta. Sus contribuciones por polemicas que hayan sido en su momento sirvieron para nada mas que cambiar el rumbo de la humanidad en cuanto a la tecnologia se refiere. Los motivos de admiracion son innumerables pero entre los que puedo destacar son: su capacidad de resiliencia, su sentido de dar calidad o ofrecer la mejor calidad disponible a los consumidores (incluso la calidad que no existia en la epoca), no conocer la palabara "no se puede hacer , es imposible de hacer" no le afectaron para dejar sus proyectos o metas incompletas, tambien la inteligencia en los negocios es inmejorable en resumidas cuentas, todo un personaje diseñado en cuanto a sus caracteristicas personasles e intelectuales para el exito.
 ### Contact me:
 [Enrique Abril C](https://www.instagram.com/enriqueabrilc/)
